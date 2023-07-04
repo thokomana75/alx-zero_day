@@ -1,1 +1,1 @@
-cat > {file_name}
+git pull
